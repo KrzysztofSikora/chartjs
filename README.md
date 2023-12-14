@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![dd](https://github.com/KrzysztofSikora/chartjs/assets/17338476/55661811-05bc-4ac4-8eff-5d5ee0305202)
+![dd png](https://github.com/KrzysztofSikora/chartjs/assets/17338476/dd34960a-79e6-4453-9d44-250f18818f94)
+
 ![Untitled](https://github.com/KrzysztofSikora/chartjs/assets/17338476/5635fa2d-219f-437b-ab96-a1948f9782df)
 
 1. Add api key to App.js component
